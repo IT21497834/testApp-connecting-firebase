@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "290673615541",
+    "project_id": "connect-firebase-1",
+    "storage_bucket": "connect-firebase-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:290673615541:android:91c9fde3f55149b182d4fc",
+        "android_client_info": {
+          "package_name": "com.example.firebaseyoutube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "290673615541-uf90ularh3a4nengfe0qtc18i3l8ap49.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALDnjOSKI0YSDo6KZZMeY6yPb0pfGdLHk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "290673615541-uf90ularh3a4nengfe0qtc18i3l8ap49.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
